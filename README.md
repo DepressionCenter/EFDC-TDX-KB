@@ -3,26 +3,28 @@
 # <Repository Title>
 
 ## Description
-This is the code repository for <program/library name>, a <program/library> for (description of what it does).
+This is the code repository for the Eisenberg Family Depression Center Knowledge Base (TeamDynamix Client Portal).
 
 
 
 ## Quick Start Guide
-<Quick compile/run instructions>
++ For HTML snippets, simply copy & paste the HTML from the corresponding section. For example, Settings-ClientHTMLFooter.html would go under Admin Portal -> Settings -> Client HTML Footer.
++ For templates, copy & paste the template into the article template of the same name.
++ For other settings, follow the instructions in the corresponding settings page.
 
 
 
 ## Documentation
-<Links to manual, wiki, full documentation, etc.>
+None.
 
 
 ## Additional Resources
-<Links to study website, related projects, etc.>
++ Depression Center [Knowledge Base](https://teamdynamix.umich.edu/TDClient/210/Portal/Home/)
 
 
 
 ## About the Team
-< 1-2 paragraphs about your core, study team, class or project. >
+The Mobile Technologies Core provides investigators across the University of Michigan the support and guidance needed to utilize mobile technologies and digital mental health measures in their studies. Experienced faculty and staff offer hands-on consultative services to researchers throughout the University – regardless of specialty or research focus.
 
 
 
@@ -41,7 +43,8 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 
 
 #### This work is based in part on the following projects, libraries and/or studies:
-+ None
++ Bootstrap
++ TeamDynamix
 
 
 
