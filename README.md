@@ -19,7 +19,7 @@ None.
 
 
 ## Additional Resources
-+ Depression Center [Knowledge Base](https://teamdynamix.umich.edu/TDClient/210/Portal/Home/)
++ Depression Center [Knowledge Base](https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/Home/)
 
 
 
