@@ -8,14 +8,16 @@ This is the code repository for the Eisenberg Family Depression Center Knowledge
 
 
 ## Quick Start Guide
-+ For HTML snippets, simply copy & paste the HTML from the corresponding section. For example, Settings-ClientHTMLFooter.html would go under Admin Portal -> Settings -> Client HTML Footer.
-+ For templates, copy & paste the template into the article template of the same name.
++ For HTML snippets, simply copy & paste the HTML from the corresponding section. For example, Settings/ClientHTMLFooter.html would go under Admin -> Settings -> Client HTML Footer.
++ For article templates, copy & paste the code into a new article template with the same name.
 + For other settings, follow the instructions in the corresponding settings page.
 
 
 
 ## Documentation
-None.
++ [Article Templates](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ArticleTemplates). This folder contains KB article templates, such as "How-To", "General Template", and "Video Playlist." It also contains [mini-sections](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/Mini_Sections) that can be inserted into an article, including "About the Author" sections, tabbed content, carousel sliders, and more.
++ [Client Portal Settings](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ClientPortalSettings). This folder contains settings used in the Admin section of the client portal.
++ [Styles](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/Styles). This folder contains custom style sheets and style settings that affect the whole client portal.
 
 
 ## Additional Resources
@@ -43,14 +45,14 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 
 
 #### This work is based in part on the following projects, libraries and/or studies:
-+ Bootstrap
++ Bootstrap v3.4.1
 + TeamDynamix
 
 
 
 ## License
 ### Copyright Notice
-Copyright © 2023 The Regents of the University of Michigan
+Copyright © 2023-2024 The Regents of the University of Michigan
 
 
 ### Software and Library License
