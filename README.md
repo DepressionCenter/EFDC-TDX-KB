@@ -1,9 +1,9 @@
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
-# <Repository Title>
+# EFDC TDX Knowledge Base Templates
 
 ## Description
-This is the code repository for the Eisenberg Family Depression Center Knowledge Base (TeamDynamix Client Portal).
+Custom HTML and CSS for the Depression Center KB (TDX Client Portal), with templates for Bootstrap components that work inside knowledge base articles.
 
 
 
