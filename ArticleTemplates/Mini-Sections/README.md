@@ -28,7 +28,7 @@ Pre-formatted "About the author" text for specific authors.
   + [Generic About the Author](https://github.com/DepressionCenter/EFDC-TDX-KB/blob/main/ArticleTemplates/Mini-Sections/About-the-Author/_Generic-About-the-Author.html). About the author sub-section, normally placed at the bottom of an article. The author photo should be 120x120px or 240x240px.  
   ![Generic "About the Author" Preview](About-the-Author/_Generic-About-the-Author.png)  
 
-+ [Gabriel Mongefranco](https://github.com/DepressionCenter/EFDC-TDX-KB/blob/main/ArticleTemplates/Mini-Sections/About-the-Author/Gabriel_Mongefranco.html). __(Example)__ "About the author" template for Gabriel Mongefranco, with profile picture, short bio, and social media links.  
++ [Gabriel Mongefranco](https://github.com/DepressionCenter/EFDC-TDX-KB/blob/main/ArticleTemplates/Mini-Sections/About-the-Author/Gabriel-Mongefranco.html). __(Example)__ "About the author" template for Gabriel Mongefranco, with profile picture, short bio, and social media links.  
   ![Example: Preview of Gabriel Mongefranco's About the Author Section](About-the-Author/Gabriel-Mongefranco.png)
   
   
