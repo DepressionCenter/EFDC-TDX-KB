@@ -7,13 +7,13 @@ Re-usable templates for common components (widgets, web parts) for use in a TDX 
 
 
 ### General Articles
-General article templates that can be customized to fit specific needs. [See templates >>](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ArticleTemplates/General_Articles)
+General article templates that can be customized to fit specific needs. [See templates >>](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ArticleTemplates/General-Articles)
 
 ### How-To Articles
-Templates for how-to articles, processes, and other step by step instructions. [See templates >>](https://github.com/DepressionCenter/EFDC-TDX-KB/blob/main/ArticleTemplates/How-To_Articles)
+Templates for how-to articles, processes, and other step by step instructions. [See templates >>](https://github.com/DepressionCenter/EFDC-TDX-KB/blob/main/ArticleTemplates/How-To-Articles)
 
 ### Mini Sections
-Small components that can be added anywhere in an article, including buttons, tabbed pages, accordions, and more.[See templates >>](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ArticleTemplates/Mini_Sections)
+Small components that can be added anywhere in an article, including buttons, tabbed pages, accordions, and more.[See templates >>](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ArticleTemplates/Mini-Sections)
 
 
 

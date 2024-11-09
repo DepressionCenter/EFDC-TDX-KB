@@ -15,13 +15,13 @@ Custom HTML and CSS for the Depression Center KB (TDX Client Portal), with templ
 
 
 ## Documentation
-+ [Article Templates](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ArticleTemplates). This folder contains KB article templates, such as "How-To", "General Template", and "Video Playlist." It also contains [mini-sections](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ArticleTemplates/Mini_Sections) that can be inserted into an article, including "About the Author" sections, tabbed content, carousel sliders, and more.
++ [Article Templates](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ArticleTemplates). This folder contains KB article templates, such as "How-To", "General Template", and "Video Playlist." It also contains [mini-sections](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ArticleTemplates/Mini-Sections) that can be inserted into an article, including "About the Author" sections, tabbed content, carousel sliders, and more.
 + [Client Portal Settings](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/ClientPortalSettings). This folder contains settings used in the Admin section of the client portal.
 + [Styles](https://github.com/DepressionCenter/EFDC-TDX-KB/tree/main/Styles). This folder contains custom style sheets and style settings that affect the whole client portal.
 
 
 ## Additional Resources
-+ Depression Center [Knowledge Base](https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/Home/)
++ Depression Center [Knowledge Base](https://michmed.org/efdc-kb)
 
 
 
