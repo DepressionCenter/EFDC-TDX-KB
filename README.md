@@ -29,7 +29,8 @@ This folder contains custom style sheets and style settings that affect the whol
 
 
 ## Additional Resources
-+ Depression Center [Knowledge Base](https://michmed.org/efdc-kb)
++ Depression Center Knowledgebase - [TDX Customization](https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/?CategoryID=1127)
++ Depression Center [Resource Library](https://michmed.org/efdc-kb)
 
 
 
